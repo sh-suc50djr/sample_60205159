@@ -1,2 +1,1 @@
-print("hello HWhee")
-print("공개 SW git 실습")
+print("이름: 전승현 학번:60205159")
